@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OBSShureLink", "OBSShureLink\OBSShureLink.csproj", "{1D2077B3-EB60-402C-86FF-0C1A7B3D4C0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D2077B3-EB60-402C-86FF-0C1A7B3D4C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D2077B3-EB60-402C-86FF-0C1A7B3D4C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D2077B3-EB60-402C-86FF-0C1A7B3D4C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D2077B3-EB60-402C-86FF-0C1A7B3D4C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1679A2A7-754B-4AD4-9408-A9506B778885}
+	EndGlobalSection
+EndGlobal
